@@ -1,6 +1,6 @@
-# ShopSmart Retail Sales Analysis with Microsoft Excel
+![ShopSmart Retail Analytics: inside a ShopSmart store](images/cover.jpg)
 
-![ShopSmart Retail Analytics: inside a ShopSmart store](images/cover (1).jpg)
+# ShopSmart Retail Sales Analysis with Microsoft Excel
 
 **AnalystLab Africa Experience Lab | Week 1 | Data Analytics Track | Mission 01**
 **Client:** ShopSmart Retail Ltd | **Role:** Junior Data Analyst | **Prepared by:** Abdulsalam | **Period analysed:** January to December 2025
@@ -142,6 +142,10 @@ Sixteen pivot tables were built from the Excel Tables:
 | Return Rate by Category (for Charts) | Category | Average of Is Returned |
 | Supplier and inventory summaries | Supplier name, Store Name | Sales, Inventory Value |
 
+![Pivot tables from the PIVOT TABLE sheet](images/pivot_tables.png)
+
+**Reading the pivot tables:** each one is laid out as a labelled block with a green title bar, a filter button on the row field and a Grand Total row. The Sales by Month, Store, Category, State, Customer Gender, Membership Level and Region tables all reconcile to the same grand total of **₦6,818,849,032**, which confirms that no sales were lost or double counted in any grouping. The Top 10 and Bottom 10 Products tables show the best and weakest sellers (₦182.3M and ₦93.6M combined), and the Returned Rate table reports the average of the `Is Returned` flag for each category.
+
 ### Step 6: Charts (sheet `CHARTS`)
 Six Pivot Charts were built on the `CHARTS` sheet. In each bar chart the highest bar is highlighted in a darker green so the leader stands out immediately.
 
@@ -255,6 +259,7 @@ Week1_Abdulsalam_<LastName>/
 ├── README.md
 └── images/
     ├── cover.jpg
+    ├── pivot_tables.png
     ├── charts.png
     └── executive_dashboard.png
 ```
@@ -265,4 +270,3 @@ The `images/` folder holds the pictures shown in this README. Keep it in the sam
 
 **Abdulsalam**, Junior Data Analyst intern, AnalystLab Africa Experience Lab (Week 1).
 Tags: #AnalystLabAfrica
-# ShopSmart-Analysis
