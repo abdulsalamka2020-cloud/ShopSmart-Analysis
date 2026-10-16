@@ -1,4 +1,4 @@
-![ShopSmart Retail Analytics: inside a ShopSmart store](images/cover.jpg)
+![ShopSmart Retail Analytics: inside a ShopSmart store](/cover.jpg)
 
 # ShopSmart Retail Sales Analysis with Microsoft Excel
 
@@ -142,14 +142,14 @@ Sixteen pivot tables were built from the Excel Tables:
 | Return Rate by Category (for Charts) | Category | Average of Is Returned |
 | Supplier and inventory summaries | Supplier name, Store Name | Sales, Inventory Value |
 
-![Pivot tables from the PIVOT TABLE sheet](images/pivot_tables.png)
+![Pivot tables from the PIVOT TABLE sheet](/pivot_tables.png)
 
 **Reading the pivot tables:** each one is laid out as a labelled block with a green title bar, a filter button on the row field and a Grand Total row. The Sales by Month, Store, Category, State, Customer Gender, Membership Level and Region tables all reconcile to the same grand total of **₦6,818,849,032**, which confirms that no sales were lost or double counted in any grouping. The Top 10 and Bottom 10 Products tables show the best and weakest sellers (₦182.3M and ₦93.6M combined), and the Returned Rate table reports the average of the `Is Returned` flag for each category.
 
 ### Step 6: Charts (sheet `CHARTS`)
 Six Pivot Charts were built on the `CHARTS` sheet. In each bar chart the highest bar is highlighted in a darker green so the leader stands out immediately.
 
-![Six pivot charts from the CHARTS sheet](images/charts.png)
+![Six pivot charts from the CHARTS sheet](/charts.png)
 
 | Chart | Type | What it shows | What it tells us |
 |---|---|---|---|
@@ -163,7 +163,7 @@ Six Pivot Charts were built on the `CHARTS` sheet. In each bar chart the highest
 ### Step 7: Executive dashboard (sheet `DASHBOARD`)
 The dashboard brings the key numbers, charts and filters onto a single screen so a manager can read the state of the business at a glance.
 
-![ShopSmart Retail Ltd Executive Overview dashboard](images/executive_dashboard.png)
+![ShopSmart Retail Ltd Executive Overview dashboard](/executive_dashboard.png)
 
 **Section 1: KPI cards (top row).** Six cards linked live to the FORMULAS sheet and the pivot tables, so they update when a slicer is used:
 
