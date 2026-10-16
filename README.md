@@ -1,6 +1,6 @@
-![ShopSmart Retail Analytics: inside a ShopSmart store](/cover.jpg)
-
 # ShopSmart Retail Sales Analysis with Microsoft Excel
+
+![ShopSmart Retail Analytics: inside a ShopSmart store](/cover.jpg)
 
 **AnalystLab Africa Experience Lab | Week 1 | Data Analytics Track | Mission 01**
 **Client:** ShopSmart Retail Ltd | **Role:** Junior Data Analyst | **Prepared by:** Abdulsalam | **Period analysed:** January to December 2025
